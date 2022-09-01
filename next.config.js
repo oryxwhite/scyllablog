@@ -10,6 +10,6 @@ module.exports = {
   reactStrictMode: true,
   images: {
     loader: "default",
-    domains: ["localhost", "thestrap.herokuapp.com"], 
+    domains: ["localhost", "thestrap.herokuapp.com", "res.cloudinary.com"], 
   },
 };
